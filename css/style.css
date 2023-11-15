@@ -19,29 +19,31 @@ header,div{
     font-size: 15px;
 }
 
+section{
+    margin:70px auto auto 130px;
+    
+}
+
 .c1{
     background-color:#0F0E17;
-    
-    width: 350px;
-    height: 100px;    
+    width: 28%;
+    margin: 10px;
+    /* width: 350px;
+    height: 100px; */
+    float: left;    
 }
 .foto{
     float: left;
     width: 100px;
-    height: 100px;
-    
-   
-      
+    height: 100px;      
 }
 
 b,span{
-    text-align: right;
+    text-align: left;
     display: inline;
     background-color:#0F0E17;
     color:white;
-    
-      
-    
+       
 }
 
 b{
