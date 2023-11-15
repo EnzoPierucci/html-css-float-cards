@@ -20,16 +20,30 @@ header,div{
 }
 
 .c1{
-    
-    padding: 10px 10px 10px 10px;
     background-color:#0F0E17;
-    color:white;
-    text-align: left;
-    vertical-align:auto;
+    
+    width: 350px;
+    height: 100px;    
+}
+.foto{
+    float: left;
+    width: 100px;
+    height: 100px;
+    
+   
+      
 }
 
-.info{
-    text-align: left;
-    display: inline-block;
-    vertical-align:auto;
+b,span{
+    text-align: right;
+    display: inline;
+    background-color:#0F0E17;
+    color:white;
+    
+      
+    
+}
+
+b{
+    font-size: 18px;
 }
